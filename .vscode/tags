@@ -1,0 +1,44 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+client	../Solucion parte 1/iot-device-status.py	/^  client = ibmiotf.device.Client(options)$/;"	kind:variable	line:19
+client	../iot-device-status.py	/^  client = ibmiotf.device.Client(options)$/;"	kind:variable	line:19
+command_callback	../Solucion parte 2/iot-device-status.py	/^def command_callback(cmd):$/;"	kind:function	line:18
+configFilePath	../Solucion parte 1/iot-device-status.py	/^configFilePath='.\/device.cfg'$/;"	kind:variable	line:9
+configFilePath	../Solucion parte 2/iot-device-status.py	/^configFilePath='.\/device.cfg'$/;"	kind:variable	line:9
+configFilePath	../iot-device-status.py	/^configFilePath='.\/device.cfg'$/;"	kind:variable	line:9
+data	../Solucion parte 1/iot-device-status.py	/^	data = get_system_load()$/;"	kind:variable	line:28
+data	../Solucion parte 2/iot-device-status.py	/^	data = get_system_load()$/;"	kind:variable	line:48
+data	../iot-device-status.py	/^	data = get_system_load()$/;"	kind:variable	line:28
+datetime	../Solucion parte 1/iot-device-status.py	/^from datetime import datetime$/;"	kind:namespace	line:6
+datetime	../Solucion parte 2/iot-device-status.py	/^from datetime import datetime$/;"	kind:namespace	line:6
+datetime	../iot-device-status.py	/^from datetime import datetime$/;"	kind:namespace	line:6
+device	../Solucion parte 1/iot-device-status.py	/^import ibmiotf.device$/;"	kind:namespace	line:5
+device	../Solucion parte 2/iot-device-status.py	/^import ibmiotf.device$/;"	kind:namespace	line:5
+device	../iot-device-status.py	/^import ibmiotf.device$/;"	kind:namespace	line:5
+get_system_load	../Solucion parte 1/iot-device-status.py	/^def get_system_load():$/;"	kind:function	line:12
+get_system_load	../Solucion parte 2/iot-device-status.py	/^def get_system_load():$/;"	kind:function	line:12
+get_system_load	../iot-device-status.py	/^def get_system_load():$/;"	kind:function	line:12
+ibmiotf	../Solucion parte 1/iot-device-status.py	/^import ibmiotf.device$/;"	kind:namespace	line:5
+ibmiotf	../Solucion parte 2/iot-device-status.py	/^import ibmiotf.device$/;"	kind:namespace	line:5
+ibmiotf	../iot-device-status.py	/^import ibmiotf.device$/;"	kind:namespace	line:5
+iot-device-status.py	../Solucion parte 1/iot-device-status.py	1;"	kind:file	line:1
+iot-device-status.py	../Solucion parte 2/iot-device-status.py	1;"	kind:file	line:1
+iot-device-status.py	../iot-device-status.py	1;"	kind:file	line:1
+json	../Solucion parte 1/iot-device-status.py	/^import json$/;"	kind:namespace	line:4
+json	../Solucion parte 2/iot-device-status.py	/^import json$/;"	kind:namespace	line:4
+json	../iot-device-status.py	/^import json$/;"	kind:namespace	line:4
+options	../Solucion parte 1/iot-device-status.py	/^  options = ibmiotf.device.ParseConfigFile(configFilePath)$/;"	kind:variable	line:18
+options	../iot-device-status.py	/^  options = ibmiotf.device.ParseConfigFile(configFilePath)$/;"	kind:variable	line:18
+os	../Solucion parte 1/iot-device-status.py	/^import os$/;"	kind:namespace	line:2
+os	../Solucion parte 2/iot-device-status.py	/^import os$/;"	kind:namespace	line:2
+os	../iot-device-status.py	/^import os$/;"	kind:namespace	line:2
+time	../Solucion parte 1/iot-device-status.py	/^import time$/;"	kind:namespace	line:3
+time	../Solucion parte 2/iot-device-status.py	/^import time$/;"	kind:namespace	line:3
+time	../iot-device-status.py	/^import time$/;"	kind:namespace	line:3
+waitInterval	../Solucion parte 1/iot-device-status.py	/^waitInterval=[1]$/;"	kind:variable	line:10
+waitInterval	../Solucion parte 2/iot-device-status.py	/^waitInterval=[1]$/;"	kind:variable	line:10
+waitInterval	../iot-device-status.py	/^waitInterval=[1]$/;"	kind:variable	line:10
